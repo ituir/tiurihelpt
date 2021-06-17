@@ -75,7 +75,7 @@ var Nodes = {
     }
 
     // Load initial input image (the chrome logo!)
-    this.loadData('Tiuri.png');
+    this.loadData('stibbe.png');
   },
 
   preparePoints: function() {
